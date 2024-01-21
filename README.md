@@ -10,4 +10,4 @@ simply run, npm install!
 
 # Preview
 
-![Screenshot (37)](https://github.com/ZainNasir2561/InvestmentCalculator/assets/102922448/7d4f0723-ae0a-4fcb-919a-ce24ae7a87b4)
+![Screenshot (38)](https://github.com/ZainNasir2561/InvestmentCalculator/assets/102922448/58a797a4-4280-4dca-92b8-da2ccd68b116)
